@@ -50,7 +50,7 @@ export default function Navbar() {
           className="text-xl font-extrabold text-blue-600 dark:text-blue-400 hover:text-blue-500 dark:hover:text-blue-300 transition"
           aria-label="Navigasi ke halaman Portal Berita"
         >
-          Portal Berita
+          Portal Gacor
         </Link>
 
         {/* Menu desktop */}

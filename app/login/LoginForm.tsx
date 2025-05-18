@@ -26,7 +26,7 @@ export default function LoginForm() {
     <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-blue-400 to-indigo-600 px-4">
       <div className="bg-white rounded-lg shadow-lg p-10 max-w-md w-full text-center">
         <h1 className="text-3xl font-extrabold mb-6 text-gray-800">
-          Portal Berita Login
+          Portal Berita Gacor
         </h1>
         <p className="mb-8 text-gray-600">
           Masuk menggunakan akun Google Anda untuk melanjutkan
