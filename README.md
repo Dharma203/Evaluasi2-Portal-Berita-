@@ -34,17 +34,21 @@ Dirancang dengan performa tinggi dan keamanan melalui proteksi halaman NextAuth,
 ## 🛠️ Instalasi & Setup
 
 1. **Clone repository**
+
 git clone https://github.com/username/portal-berita.git
 cd portal-berita
 
 2. **Install Dependencies**
+
 npm install
 
 3. **Buat File Environment**
+
 NEXTAUTH_SECRET=your_nextauth_secret_here
 GOOGLE_CLIENT_ID=your_google_oauth_client_id
 GOOGLE_CLIENT_SECRET=your_google_oauth_client_secret
 NEWS_API_KEY=your_newsapi_org_api_key
 
 4. **Jalankan**
+
 npm run dev
